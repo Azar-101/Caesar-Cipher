@@ -31,41 +31,42 @@ Result: Khoor Zruog```
 
 ```How to Run
 Clone this repository to your local machine:
-bash
-Always show details```
-
-Copy code
+```
+```bash
 git clone https://github.com/your-username/Caesar-Cipher.git
+```
 Navigate to the project directory:
 bash
 Always show details
 
-Copy code
+```
 cd Caesar-Cipher
-Run the program:
-bash
+```
+##Run the program:
+
 Always show details
 
-Copy code
+```
 python caesar_cipher.py
-File Structure
+
+```
+##File Structure
 caesar_cipher.py: The main Python script containing the Caesar Cipher implementation.
-Requirements
-Python 3.x
-Example
-Encryption
+
+##Example
+#Encryption
 Input:
 Message: Hello World
 Shift Value: 3
-Output:
+#Output:
 Encrypted Message: Khoor Zruog
 Decryption
 Input:
 Message: Khoor Zruog
 Shift Value: 3
-Output:
+#Output:
 Decrypted Message: Hello World
-License
+##License
 This project is open-source and available under the MIT License.
 
 Contributing
