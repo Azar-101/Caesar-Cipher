@@ -1,5 +1,5 @@
 # Saving the README content to a file
-readme_content = """
+
 # Caesar Cipher
 
 ## Description
@@ -27,11 +27,12 @@ Here's how the program works:
 ```python
 Enter your message: Hello World
 Enter the shift value: 3
-Result: Khoor Zruog
-How to Run
+Result: Khoor Zruog```
+
+```How to Run
 Clone this repository to your local machine:
 bash
-Always show details
+Always show details```
 
 Copy code
 git clone https://github.com/your-username/Caesar-Cipher.git
@@ -71,12 +72,12 @@ Contributing
 Contributions are welcome! Feel free to fork this repository and submit a pull request.
 
 Author
-Your Name
+Mohamed asarudeen
 Your GitHub Profile
 Thank you for checking out the Caesar Cipher program! If you find it helpful, don't forget to star the repository. 😊 """
 
 Save to a file
 file_path = "/mnt/data/Caesar_Cipher_README.md" with open(file_path, "w") as file: file.write(readme_content)
 
-file_path
+file_path '/mnt/data/Caesar_Cipher_README.md'
 
