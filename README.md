@@ -76,8 +76,5 @@ Mohamed asarudeen
 Your GitHub Profile
 Thank you for checking out the Caesar Cipher program! If you find it helpful, don't forget to star the repository. 😊 """
 
-Save to a file
-file_path = "/mnt/data/Caesar_Cipher_README.md" with open(file_path, "w") as file: file.write(readme_content)
 
-file_path '/mnt/data/Caesar_Cipher_README.md'
 
